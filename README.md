@@ -4,3 +4,5 @@
 Some classes still have minor obfuscation in them for some reason, it uses superblaubeere obf. It doesn't really matter, most code can be easily understood, I don't recommend skidding this tho
 
 Remapped and (partially) deobfuscated by OMA
+
+https://www.youtube.com/watch?v=_Fz7X-rQusk
